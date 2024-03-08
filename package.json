@@ -11,12 +11,12 @@
     "gitee": "https://gitee.com/2033619233"
   },
   "license": "MIT",
-  "repository": "https://github.com/codercup/unibest",
-  "repository-gitee": "https://gitee.com/codercup/unibest",
+  "repository": "https://github.com/2033619233/uniapp-chat",
+  "repository-gitee": "https://gitee.com/2033619233/uniapp-chat",
   "bugs": {
-    "url": "https://github.com/codercup/unibest/issues"
+    "url": "https://github.com/2033619233/uniapp-chat/issues"
   },
-  "homepage": "https://codercup.github.io/unibest/",
+  "homepage": "https://2033619233.github.io/uniapp-chat/",
   "engines": {
     "node": ">=18",
     "pnpm": ">=7.30"
