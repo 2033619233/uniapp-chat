@@ -1,14 +1,14 @@
 {
-  "name": "unibest",
+  "name": "uni-chat",
   "type": "commonjs",
   "version": "1.3.0",
   "description": "unibest - 最好的 uniapp 开发模板",
   "author": {
-    "name": "codercup",
-    "zhName": "菲鸽",
-    "email": "1020103647@qq.com",
-    "github": "https://github.com/codercup",
-    "gitee": "https://gitee.com/codercup"
+    "name": "chengqingyunan",
+    "zhName": "程",
+    "email": "2033619233@qq.com",
+    "github": "https://github.com/2033619233",
+    "gitee": "https://gitee.com/2033619233"
   },
   "license": "MIT",
   "repository": "https://github.com/codercup/unibest",
@@ -28,6 +28,7 @@
     "dev:custom": "uni -p",
     "dev": "uni",
     "dev:h5": "uni",
+    "serve": "uni",
     "dev:h5:ssr": "uni --ssr",
     "dev:mp-alipay": "uni -p mp-alipay",
     "dev:mp-baidu": "uni -p mp-baidu",
