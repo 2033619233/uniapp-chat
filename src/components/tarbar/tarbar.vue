@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <view class="top-bar">
     <view class="top-bar-left">
       <slot></slot>
@@ -73,4 +73,4 @@ const toSearch = () => {
     }
   }
 }
-</style> -->
+</style>
